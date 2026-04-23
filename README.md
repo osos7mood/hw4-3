@@ -38,3 +38,5 @@ Mohammed Alghamdi
 Email: Mza6150@psu.edu
 
 Repository reviewed on GitHub.
+
+Issues reviewed.
