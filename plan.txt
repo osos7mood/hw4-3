@@ -1,0 +1,20 @@
+Goals:
+- Complete HW 4.3
+- Use GitHub features correctly
+
+Needs:
+- Repository
+- Branches
+- Issues
+- Commits
+- PDF file
+- QMD file
+
+Steps:
+1. Create repository
+2. Upload files
+3. Create dev branch
+4. Make commits on dev
+5. Create issues
+6. Open and merge pull request
+7. Final review
